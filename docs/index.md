@@ -1,5 +1,5 @@
-# 11/28/21
-# IT FDN 110 A 
+### 11/28/21
+### IT FDN 110 A 
 # Assignment 07 Knowledge Document
 
 ## Introduction
@@ -12,7 +12,8 @@ The first example of Exception Handling uses “Try-Except”. Our code is separ
 There are also other options to utilize this type of [exception handling](https://www.w3schools.in/python-tutorial/exception-handling/):
 Here we are using `if`/`elif` statements to check if the user input is numeric and avoid errors when performing future math operations. If the input is not numeric we `raise` an `exception`, with optional message that is displayed to the user.
 Similarly, we can `raise` an `exception` with a call to a custom error class that we created elsewhere, `PerfectPickleError()`. In this example the class takes in an `exception` as a argument and has one method that returns a string containing an error message we have written that makes it more clear to the user why the code did not execute as expected.
-Pickling
+
+## Pickling
 According to the [official Python documentation](https://docs.python.org/3/library/pickle.html#data-stream-format),
 > Pickling” is the process whereby a Python object hierarchy is converted into a byte stream, and “unpickling” is the inverse operation, whereby a byte stream (from a binary file or bytes-like object) is converted back into an object hierarchy.
      
