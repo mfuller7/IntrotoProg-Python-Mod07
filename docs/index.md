@@ -42,8 +42,8 @@ It was good practice to work with binary files and think more about error handli
 ![Terminal Running Code.png](/../main/assets/images/TerminalRunningCode.png)
 
 ## Links
-https://www.w3schools.in/python-tutorial/exception-handling/
-https://www.freecodecamp.org/news/exception-handling-python/
-https://stackoverflow.com/questions/41600577/iterating-through-a-list-of-objects-which-is-loaded-by-pickle
-https://www.synopsys.com/blogs/software-security/python-pickling/
-https://docs.python.org/3/library/pickle.html#data-stream-format
+https://www.w3schools.in/python-tutorial/exception-handling/  
+https://www.freecodecamp.org/news/exception-handling-python/  
+https://stackoverflow.com/questions/41600577/iterating-through-a-list-of-objects-which-is-loaded-by-pickle  
+https://www.synopsys.com/blogs/software-security/python-pickling/  
+https://docs.python.org/3/library/pickle.html#data-stream-format  
