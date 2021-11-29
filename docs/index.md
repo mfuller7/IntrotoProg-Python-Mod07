@@ -35,12 +35,15 @@ In our case this means that we are using the “Pickle” Python library to move
 One advantage of serializing data is to make it more “obscure” as well as more easily transport it across a network. However, [one article](https://www.synopsys.com/blogs/software-security/python-pickling/) explains that this also presents a significant draw back in that the “pickled” data cannot be verified before it is “unpickled”, potentially being malicious if coming from an unverified source.3
 
 ## Summary
-It was good practice to work with binary files and think more about error handling. Expanding one’s knowledge of file types and how they can be utilized effectively is likely a handy skill moving forward. Error handling is something I felt I needed more practice with as it seems like an important way to improve application usability and I after this exercise I feel more confident using it in different ways.
-Links
-https://www.w3schools.in/python-tutorial/exception-handling/ https://www.freecodecamp.org/news/exception-handling-python/
-https://stackoverflow.com/questions/41600577/iterating-through-a-list-of-objects-which-is- loaded-by-pickle
-https://www.synopsys.com/blogs/software-security/python-pickling/ https://docs.python.org/3/library/pickle.html#data-stream-format
+It was good practice to work with binary files and think more about error handling. Expanding one’s knowledge of file types and how they can be utilized effectively is likely a handy skill moving forward. Error handling is something I felt I needed more practice with as it seems like an important way to improve application usability and I after this exercise I feel more confident using it in different ways.  
 
 ## Execution Verification
 ![PyCharm Running Code.png](/../main/assets/images/PyCharmRunningCode.png)
 ![Terminal Running Code.png](/../main/assets/images/TerminalRunningCode.png)
+
+## Links
+https://www.w3schools.in/python-tutorial/exception-handling/
+https://www.freecodecamp.org/news/exception-handling-python/
+https://stackoverflow.com/questions/41600577/iterating-through-a-list-of-objects-which-is-loaded-by-pickle
+https://www.synopsys.com/blogs/software-security/python-pickling/
+https://docs.python.org/3/library/pickle.html#data-stream-format
